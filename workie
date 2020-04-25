@@ -1,0 +1,2 @@
+#! /bin/bash
+xfce4-terminal -e 'bash -c "cd /var/www/; bash"' -T "Workie Workie Time"

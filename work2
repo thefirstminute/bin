@@ -1,0 +1,5 @@
+#! /bin/bash
+wmctrl -s 1
+firefox & Thunar /var/www/ & 
+sleep 1 &
+xfce4-terminal -e 'bash -c "cd /var/www/; bash"' -T "Workie Workie Time"
