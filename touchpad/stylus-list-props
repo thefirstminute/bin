@@ -1,0 +1,31 @@
+Device 'Wacom ISDv4 EC Pen stylus':
+	Device Enabled (165):	1
+	Coordinate Transformation Matrix (167):	0.444444, 0.000000, 0.345278, 0.000000, 0.454545, 0.545455, 0.000000, 0.000000, 1.000000
+	Device Accel Profile (296):	0
+	Device Accel Constant Deceleration (297):	1.000000
+	Device Accel Adaptive Deceleration (298):	1.000000
+	Device Accel Velocity Scaling (299):	10.000000
+	Device Node (288):	"/dev/input/event5"
+	Wacom Tablet Area (329):	0, 0, 27748, 15652
+	Wacom Rotation (330):	0
+	Wacom Pressurecurve (331):	0, 0, 100, 100
+	Wacom Serial IDs (332):	236, 0, 2, 0, 0
+	Wacom Serial ID binding (333):	0
+	Wacom Proximity Threshold (334):	30
+	Wacom Pressure Threshold (335):	27
+	Wacom Sample and Suppress (336):	2, 4
+	Wacom Enable Touch (337):	1
+	Wacom Hover Click (338):	1
+	Wacom Enable Touch Gesture (339):	0
+	Wacom Touch Gesture Parameters (340):	0, 0, 250
+	Wacom Tool Type (341):	"STYLUS" (322)
+	Wacom Button Actions (342):	"Wacom button action 0" (343), "Wacom button action 1" (344), "Wacom button action 2" (345), "None" (0), "None" (0), "None" (0), "None" (0), "Wacom button action 3" (346)
+	Wacom button action 0 (343):	1572865
+	Wacom button action 1 (344):	1572867
+	Wacom button action 2 (345):	1572866
+	Wacom button action 3 (346):	1572872
+	Wacom Pressure Recalibration (347):	1
+	Wacom Panscroll Threshold (348):	1404
+	Device Product ID (289):	1386, 236
+	Wacom Debug Levels (349):	0, 0
+

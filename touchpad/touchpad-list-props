@@ -1,0 +1,10 @@
+Device 'SYNAPTICS Synaptics Touch Digitizer V04':
+	Device Enabled (165):	1
+	Coordinate Transformation Matrix (167):	1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000
+	libinput Calibration Matrix (320):	1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000
+	libinput Calibration Matrix Default (321):	1.000000, 0.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000, 0.000000, 1.000000
+	libinput Send Events Modes Available (285):	1, 0
+	libinput Send Events Mode Enabled (286):	0, 0
+	libinput Send Events Mode Enabled Default (287):	0, 0
+	Device Node (288):	"/dev/input/event20"
+	Device Product ID (289):	1739, 29252
