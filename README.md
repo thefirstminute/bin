@@ -1,7 +1,7 @@
 # bin
 
 ```sh
-git clone https://github.com/thefirstminute/bin.git ~/bin
+git clone https://github.com/thefirstminute/bin.git ~/.config/mybin
 chmod -R 755 ~/bin
 ```
 
